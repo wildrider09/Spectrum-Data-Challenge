@@ -1,5 +1,5 @@
 # Spectrum-Data-Challenge
 1. Country wise spectrum allocation analysis - For a particular spectrum, and a given country we can depict graphically which telecom operators won the auction within a stipulated time frame and at what price. For example: In case of the USA for 3G band we can visualize which operator won the auction held in a particular year (x-axis) and at what price (y-axis). This will further help us to infer the change in winning prices over the years. We do this analysis for Australia. 
 2. Population Covered - For a particular country , we can visualize the population covered by various spectrum ranges in various regions. For example: In the case of Australia we can depict region (x-axis) and population covered (y-axis) by 3G spectrum band in a particular year. We do this analysis for Australia.
-3. Prediction of future spectrum prices - For a particular year on the basis of its past spectrum prices and using Regression Models we can predict its future spectrum prices
-The spectrum database has been shared by the research firm Dotecon in UK to the Faculty for use strictly for academic purposes
+3. Prediction of future spectrum prices - For a particular year on the basis of its past spectrum prices and using Regression Models we can predict its future spectrum prices.
+4. The spectrum database has been shared by the research firm Dotecon in UK to the Faculty for use strictly for academic purposes
